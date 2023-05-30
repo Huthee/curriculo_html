@@ -1,9 +1,19 @@
-# curriculo_html
+# Portfólio
 
-Primeira página desenvolvida em HTML e CSS.
+![print](https://github.com/Huthee/curriculo_html/assets/89394453/9f4aa17e-59b4-4c44-b363-0bfcfb5ab842)
 
-A ideia do projeto é criar meu currículo interativo completo, partindo dos cursos básicos de HTML/CSS da Alura. Além de personalizar as páginas conforme meu design
-e minhas informações pessoais, o projeto servirá também como um portfolio, contendo vários links para outros trabalhos meus (tal como uma página única com desenhos).
+## Ferramentas utilizadas:
 
-Os arquivos HTML e CSS estarão (conforme meu desenvolvimento) em constante atualização. Várias imagens ainda serão inseridas e, possivelmente, a extensão para
-JavaScript será implementada ao site do currículo.
+*HTML
+
+*CSS
+  *Flex-box
+  *Media Query
+  
+*Photoshop
+
+## Feito por:
+
+### Gabriel Bohrer
+
+A ideia do projeto é criar meu currículo interativo completo, além de personalizar as páginas conforme meu design e minhas informações pessoais. Este projeto servirá também como um portfólio, contendo vários links para outros trabalhos e projetos meus.
