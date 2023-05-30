@@ -1,6 +1,6 @@
 # Portfólio
 
-![print](https://github.com/Huthee/curriculo_html/assets/89394453/9f4aa17e-59b4-4c44-b363-0bfcfb5ab842)
+![print1](https://github.com/Huthee/curriculo_html/assets/89394453/6bda1747-d62f-43b1-8be1-9c5bdec1b458)
 
 ## Ferramentas utilizadas:
 
